@@ -85,7 +85,7 @@ header div button:nth-child(3){
 .category span{
     position: absolute;
     bottom: 10px;
-    background-color: white;
+    background-color: rgb(241, 227, 227);
     padding: 5px 10px;
     border-radius: 10px;
     font-weight: 600;

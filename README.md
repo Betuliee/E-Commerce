@@ -1,1 +1,13 @@
-# E-Commerce
+<h1> E Commerce </h1>
+
+<h1> Used Languages </h1>
+
+HTML 5               
+ 
+CSS
+
+JS
+
+<h2> Screen View </h2>
+
+![](screen.gif)

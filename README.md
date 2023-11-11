@@ -10,5 +10,5 @@ JS
 
 <h2> Screen View </h2>
 
-![](screen.gif)
+![]()
 

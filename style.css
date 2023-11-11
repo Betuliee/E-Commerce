@@ -144,6 +144,10 @@ header div button:nth-child(3){
     cursor: pointer;
 }
 
+.product-action button:hover{
+    background-color: antiquewhite;
+}
+
 /* Modal  */
 .modal-wrapper{
     position: fixed;

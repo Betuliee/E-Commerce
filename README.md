@@ -2,8 +2,8 @@
 
 <h1> Used Languages </h1>
 
-HTML 5               
- 
+HTML5               
+
 CSS
 
 JS

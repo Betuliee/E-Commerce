@@ -1,6 +1,6 @@
 <h1> E Commerce </h1>
 
-<h1> Used Languages</h1>
+<h1> Used Languages </h1>
 
 HTML5               
 
